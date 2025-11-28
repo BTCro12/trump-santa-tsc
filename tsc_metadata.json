@@ -1,17 +1,9 @@
 {
   "name": "Trump Santa Claus",
   "symbol": "TSC",
-  "description": "A festive Solana memecoin featuring Trump dressed as Santa Claus.",
+  "description": "Trump Santa Claus – Christmas meme token on Solana.",
   "image": "https://raw.githubusercontent.com/BTCro12/trump-santa-tsc/main/file_00000000cb7c71f490fb6ec1518292ad.png",
   "attributes": [
-    {
-      "trait_type": "Holiday",
-      "value": "Christmas"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Trump Santa"
-    },
     {
       "trait_type": "Category",
       "value": "Meme Coin"
